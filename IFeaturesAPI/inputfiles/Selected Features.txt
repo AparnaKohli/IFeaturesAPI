@@ -1,0 +1,9 @@
+storage
+screen
+size
+headphones
+battery
+software
+price
+sound
+button
